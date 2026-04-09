@@ -47,6 +47,8 @@ next-env.d.ts
 .cursor-cache/
 .cursor-tmp/
 .cursorindex/
+.AGENTS.md/
+.CLAUDE.md
 
 # Optional: any local agent notes/logs
 *.agent.log
