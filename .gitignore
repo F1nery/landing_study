@@ -39,3 +39,15 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.vercel
+
+# Cursor / AI agent local files
+.cursor/
+.cursor-cache/
+.cursor-tmp/
+.cursorindex/
+
+# Optional: any local agent notes/logs
+*.agent.log
+*.transcript
